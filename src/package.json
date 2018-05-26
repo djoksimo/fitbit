@@ -1,0 +1,19 @@
+{
+  "fitbit": {
+    "appUUID": "f4d944b3-aa3c-4528-b2a3-3eb4f25cb980",
+    "appType": "app",
+    "appDisplayName": "Moss",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#8bc34a",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Moss"
+      }
+    }
+  }
+}
